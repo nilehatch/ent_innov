@@ -276,7 +276,7 @@ This structured approach ensures that every aspect of innovation - from understa
 
 In the first diamond, we diverge and converge to find an unknown customer need. In the divergent stage, use exploratory experiments to collect a mountain of data.  In the convergent stage, use abduction to generate an informed hypothesis about an unmet need.  Finally, test the hypothesis with an informative validation test.
 
-![](images/21_double_diamond_pain.png){#fig:pain width="75%"}
+![](images/21_double_diamond_pain.png){#fig:pain_validation width="75%"}
 
 1. __Choose a Community of People:__ Begin by considering many possible groups of people and then converge to choose a community of people to study.  Test whether you can reach them.
 2. __Explore the Community through Research:__ Use exploratory experiments to gather information through primary (ethnographic) and secondary research to gain insight into their needs.
@@ -287,7 +287,7 @@ In the first diamond, we diverge and converge to find an unknown customer need. 
 
 In the second diamond, we diverge and converge to find a solution to the validated customer pain. In the divergent stage, use creativity tools as exploratory experiments to generate many possible solutions.  In the convergent stage, use evaluation tools as abduction to generate an informed hypothesis about a solution for the unmet need.  Finally, test the solution hypothesis with an array of informative tests.
 
-![](images/22_double_diamond_solution.png){#fig:solution width="75%"}
+![](images/22_double_diamond_solution.png){#fig:solution_test width="75%"}
 
 1. __Ideate Many Solutions:__ Engage in creative activities such as brainstorming, brainwriting, and SCAMPER as exploratory experiments to generate many solution ideas.
 2. __Evaluate Solution Ideas:__ Use screening techniques such as feasibility filters, passion, and the screening matrix as abduction to narrow down these ideas to a few promising ones as hypothesized solutions.

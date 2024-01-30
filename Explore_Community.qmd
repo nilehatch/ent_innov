@@ -154,7 +154,7 @@ When observing, focus on:
 
 #### Structured Observation Approach
 
-To structure your observational studies, consider the following questions \autocite{plattner2013empathy}:
+To structure your observational studies, consider the following questions:
 
 1.  **What are They Doing?**: Note both the obvious and the surprising. Stick to objective facts.
 2.  **How are They Doing It?**: Assess the effort involved, emotional responses, and the impact of the activity on the user.

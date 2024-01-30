@@ -44,7 +44,7 @@ Validating pain hypotheses is crucial yet distinct from validating solution conc
 
 Validating pain hypotheses involves a scientific methodology applied to entrepreneurship. It requires a clear definition of the suspected pain, a strategic approach to gathering data, and a rigorous analysis to interpret the results. This process ensures that the solutions you develop are not just innovative but are also addressing real and significant customer pains.
 
-![Informative testing to validate the hypothesis of customer pain](images/21_double_diamond_pain.png){width=75% #fig:test-pain}
+![Informative testing to validate the hypothesis of customer pain](images/21_double_diamond_pain.png){#fig:test-pain width=75%}
 
 The distinction between validating pains and solutions lies in the focus. While solution validation is about testing the viability, desirability, and feasibility of your product or service, pain validation is about confirming the existence and intensity of the problem your solution intends to solve. By validating pains, entrepreneurs gain a deeper understanding of their customers' needs, which leads to more effective and impactful solutions.
 

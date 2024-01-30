@@ -6,7 +6,7 @@ book:
   #author: "Nile Hatch"
   #date: "1/26/2024"
   search: true
-  cover-image: cassia_crossbill_2.jpg
+  #cover-image: cassia_crossbill_2.jpg
   chapters:
     - index.qmd
     - Expeditionary_Innovation.qmd
@@ -33,8 +33,8 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+  #pdf:
+  #  documentclass: scrreprt
 
 editor: source
 
